@@ -1,5 +1,4 @@
-# cs360
-Repository for my CS-360 class
+# CS-360 Mobile Architecture and Programming
 
 ## Briefly summarize the requirements and goals of the app you developed. What user needs was this app designed to address?
 The purpose of this app was to create an Android application that would allow a user to make an account, sign in, add items to their inventory, modify their quantities, delete items, and even enable/disable push notifications.
